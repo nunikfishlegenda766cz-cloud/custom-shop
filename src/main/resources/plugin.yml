@@ -1,0 +1,8 @@
+name: CustomShop
+version: 1.0
+main: cz.tvojeserver.customshop.CustomShop
+api-version: '1.20'
+commands:
+  shop:
+    description: Otevre obchod se surovinami
+    usage: /shop
